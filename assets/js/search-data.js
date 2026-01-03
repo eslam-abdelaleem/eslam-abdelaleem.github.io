@@ -108,7 +108,12 @@ ninja.data = [{
           section: "News",},{id: "news-awarded-the-coco-pilot-grant-2-000-it-ain-t-much-but-it-s-an-honest-work-will-be-used-to-hire-an-ura-to-study-multisensory-integration-from-an-information-perespective",
           title: 'Awarded the CoCo Pilot Grant ($2,000 - it ain’t much, but it’s an...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-coco-pilot-grant",
+          title: 'CoCo Pilot Grant',
+          description: "Tracking the Trajectory of Adaptation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cocopilot/";
+            },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
