@@ -440,13 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-press-coverage-ai-reveals-unexpected-new-physics-in-dusty-plasma-featured-in-emory-news-and-20-other-outlets",
+          title: 'Press coverage: “AI Reveals Unexpected New Physics in Dusty Plasma” featured in Emory...',
           description: "",
           section: "News",},{id: "news-our-work-on-deep-variational-information-bottleneck-was-featured-in-emory-news",
           title: 'Our work on Deep Variational Information Bottleneck was featured in Emory News!',
