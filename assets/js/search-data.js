@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-projects",
+          title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-publications",
           title: "publications",
@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-miscellaneous",
+          title: "Miscellaneous",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/misc/";
           },
         },{id: "nav-repositories",
           title: "repositories",
@@ -37,42 +37,28 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+        },{id: "nav-tutorials",
+          title: "Tutorials",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/tutorials/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          title: "Teaching",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -94,19 +80,11 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "news-ai-reveals-unexpected-new-physics-in-dusty-plasma-emory-university-news-july-2025-feature-on-pnas-2025-paper-covered-by-21-news-outlets-podcasts-and-blogs",
+          title: '“AI Reveals Unexpected New Physics in Dusty Plasma.” Emory University News, July 2025....',
           description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-press-coverage-ai-reveals-unexpected-new-physics-in-dusty-plasma-featured-in-emory-news-and-20-other-outlets",
-          title: 'Press coverage: “AI Reveals Unexpected New Physics in Dusty Plasma” featured in Emory...',
-          description: "",
-          section: "News",},{id: "news-our-work-on-deep-variational-information-bottleneck-was-featured-in-emory-news",
-          title: 'Our work on Deep Variational Information Bottleneck was featured in Emory News!',
-          description: "",
-          section: "News",},{id: "news-awarded-the-coco-pilot-grant-2-000-it-ain-t-much-but-it-s-an-honest-work-will-be-used-to-hire-an-ura-to-study-multisensory-integration-from-an-information-perespective",
-          title: 'Awarded the CoCo Pilot Grant ($2,000 - it ain’t much, but it’s an...',
+          section: "News",},{id: "news-periodic-table-for-ai-methods-aims-to-drive-innovation-emory-university-news-december-2025-feature-on-jmlr-2025-paper-deep-variational-multivariate-information-bottleneck",
+          title: '”‘Periodic Table’ for AI Methods Aims to Drive Innovation.“ Emory University News, December...',
           description: "",
           section: "News",},{id: "projects-coco-pilot-grant",
           title: 'CoCo Pilot Grant',
