@@ -440,14 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-press-coverage-ai-reveals-unexpected-new-physics-in-dusty-plasma-featured-in-emory-news-and-20-other-outlets",
+            },},{id: "news-press-coverage-ai-reveals-unexpected-new-physics-in-dusty-plasma-featured-in-emory-news-and-20-other-outlets",
           title: 'Press coverage: “AI Reveals Unexpected New Physics in Dusty Plasma” featured in Emory...',
           description: "",
           section: "News",},{id: "news-our-work-on-deep-variational-information-bottleneck-was-featured-in-emory-news",
           title: 'Our work on Deep Variational Information Bottleneck was featured in Emory News!',
+          description: "",
+          section: "News",},{id: "news-awarded-the-coco-pilot-grant-2-000-it-ain-t-much-but-it-s-an-honest-work-will-be-used-to-hire-an-ura-to-study-multisensory-integration-from-an-information-perespective",
+          title: 'Awarded the CoCo Pilot Grant ($2,000 - it ain’t much, but it’s an...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
