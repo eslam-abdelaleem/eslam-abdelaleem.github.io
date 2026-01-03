@@ -1,8 +1,6 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-12-17
 inline: true
-related_posts: false
 ---
-
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Awarded the **[CoCo Pilot Grant](https://coco.psych.gatech.edu/coco-pilot-grants/)** ($2,000 - it ain't much, but it's an honest work!). Will be used to hire an URA to study multisensory integration from an information perespective.
