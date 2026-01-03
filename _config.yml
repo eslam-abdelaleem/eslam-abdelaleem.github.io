@@ -2,10 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: Eslam Abdelaleem
+first_name: Eslam
+middle_name: # Leave empty if you don't use it
+last_name: Abdelaleem
+email: eslam.abdelaleem3@gatech.edu
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -23,7 +24,7 @@ icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name 
 # ------------------------------------------------------------------
 url: "https://eslam-abdelaleem.github.io"  # the base hostname & protocol for your site
 baseurl: ""                                # leave this empty for username.github.io
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -272,8 +273,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Abdelaleem]
+  first_name: [Eslam]
 
   style: apa
   locale: en
