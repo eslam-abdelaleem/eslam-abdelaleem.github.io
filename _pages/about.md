@@ -18,12 +18,14 @@ selected_papers: true # This enables the "Selected Publications" list
 social: true  # This enables the social icons (GitHub, Scholar)
 ---
 
-I am a Postdoctoral Fellow at Georgia Tech, advised by [Dr. Audrey Sederberg](https://sederberg-lab.org).
+My research develops principled, information-theoretic machine learning techniques to quantify and extract meaningful representations from complex, high-dimensional data. I specialize in creating novel methods to uncover latent dynamical variables in neural recordings and other empirical systems, bridging computational neuroscience, statistical physics, and machine learning.
 
-My research focuses on developing **principled, information-theoretic machine learning techniques** to extract meaningful representations from complex, high-dimensional data. I bridge computational neuroscience, statistical physics, and machine learning to uncover latent dynamical variables in neural recordings.
+### Appointments
 
-Previously, I completed my Ph.D. in Physics at Emory University under [Dr. Ilya Nemenman](https://physics.emory.edu/faculty/nemenman/), where I worked on variational information bottlenecks.
+* **Postdoctoral Fellow** (2024 -- Present)
+  Schools of Physics and Psychology, Georgia Institute of Technology
+  Advisor: Dr. Audrey Sederberg
 
-### Current Research
-* **Dynamic Functional Connectivity:** Using deep learning to track network reorganization during adaptation (supported by the CoCo Pilot Grant).
-* **NeuralMI:** A toolbox for rigorous mutual information estimation in neuroscience.
+* **Lecturer** (2025 -- 2026)
+  Schools of Physics and Psychology, Georgia Institute of Technology
+  Formally appointed to co-instruct _Physics of Cognition_ (Fall 2025, Spring 2026).
