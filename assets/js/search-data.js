@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-tutorials",
           title: "Tutorials",
           description: "",
@@ -64,6 +57,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-repositories",
+          title: "Repositories",
+          description: "Selected open-source tools and codebases.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/repositories/";
           },
         },{id: "news-ai-reveals-unexpected-new-physics-in-dusty-plasma-emory-university-news-july-2025-feature-on-pnas-2025-paper-covered-by-21-news-outlets-podcasts-and-blogs",
           title: '“AI Reveals Unexpected New Physics in Dusty Plasma.” Emory University News, July 2025....',
