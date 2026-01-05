@@ -13,8 +13,12 @@ profile:
     Georgia Institute of Technology\\
     Atlanta, GA
 
-news: true  # Includes the "News" section at the bottom
+announcements:
+  enabled: true
+  limit: 5 # Optional: limit to the 5 most recent news items
+
 selected_papers: true # Includes the "Selected Publications" list
+
 social: true  # Includes the social icons
 ---
 
