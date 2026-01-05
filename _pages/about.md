@@ -22,7 +22,7 @@ selected_papers: true # Includes the "Selected Publications" list
 social: true  # Includes the social icons
 ---
 
-**Salam, I'm Eslam.**
+**Salam! I'm Eslam.**
 
 I am a physicist exploring the intersection of **neuroscience**, **statistical physics**, and **machine learning**.
 
