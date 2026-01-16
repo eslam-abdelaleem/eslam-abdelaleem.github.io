@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-09'
+  last_updated: '2026-01-16'
 papers:
   8vetn38AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -26,7 +26,7 @@ papers:
     title: 'Simultaneous dimensionality reduction: A data efficient approach for multimodal representations learning'
     year: '2024'
   8vetn38AAAAJ:UeHWp8X0CEIC:
-    citations: 14
+    citations: 15
     title: Deep variational multivariate information bottleneck-a framework for variational losses
     year: '2025'
   8vetn38AAAAJ:d1gkVwhDpl0C:
