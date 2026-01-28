@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-01-28'
 papers:
   8vetn38AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,17 +18,17 @@ papers:
     title: Using Eye Movement to Assess Auditory Attention
     year: '2019'
   8vetn38AAAAJ:Se3iqnhoufwC:
-    citations: 4
+    citations: 5
     title: Physics-tailored machine learning reveals unexpected physics in dusty plasmas
     year: '2025'
   8vetn38AAAAJ:Tyk-4Ss8FVUC:
-    citations: 9
+    citations: 10
     title: 'Simultaneous dimensionality reduction: A data efficient approach for multimodal representations learning'
     year: '2024'
   8vetn38AAAAJ:UeHWp8X0CEIC:
     citations: 15
-    title: Deep variational multivariate information bottleneck-a framework for variational losses
-    year: '2025'
+    title: Deep Variational Multivariate Information Bottleneck--A Framework for Variational Losses
+    year: '2023'
   8vetn38AAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: Statistical properties of empirical cross-covariance matrices of correlated large-dimensional datasets
