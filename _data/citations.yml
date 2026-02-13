@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-28'
+  last_updated: '2026-02-13'
 papers:
   8vetn38AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -28,7 +28,7 @@ papers:
   8vetn38AAAAJ:UeHWp8X0CEIC:
     citations: 15
     title: Deep Variational Multivariate Information Bottleneck--A Framework for Variational Losses
-    year: '2023'
+    year: '2025'
   8vetn38AAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: Statistical properties of empirical cross-covariance matrices of correlated large-dimensional datasets
