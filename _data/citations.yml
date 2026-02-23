@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-02-23'
 papers:
   8vetn38AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -9,10 +9,14 @@ papers:
     citations: 0
     title: 'Dissertation: Simultaneous Dimensionality Reduction for Extracting Useful Representations of Large Empirical Multimodal Datasets'
     year: '2024'
+  8vetn38AAAAJ:3fE2CSJIrl8C:
+    citations: 0
+    title: Mutual information and task-relevant latent dimensionality
+    year: '2026'
   8vetn38AAAAJ:8k81kl-MbHgC:
     citations: 0
     title: Measurement effects on critical scaling in neural systems
-    year: Unknown Year
+    year: '2026'
   8vetn38AAAAJ:LkGwnXOMwfcC:
     citations: 2
     title: Using Eye Movement to Assess Auditory Attention
@@ -22,7 +26,7 @@ papers:
     title: Physics-tailored machine learning reveals unexpected physics in dusty plasmas
     year: '2025'
   8vetn38AAAAJ:Tyk-4Ss8FVUC:
-    citations: 10
+    citations: 12
     title: 'Simultaneous dimensionality reduction: A data efficient approach for multimodal representations learning'
     year: '2024'
   8vetn38AAAAJ:UeHWp8X0CEIC:
@@ -34,10 +38,10 @@ papers:
     title: Statistical properties of empirical cross-covariance matrices of correlated large-dimensional datasets
     year: '2023'
   8vetn38AAAAJ:roLk4NBRz8UC:
-    citations: 5
-    title: Accurate Estimation of Mutual Information in High Dimensional Data
+    citations: 6
+    title: Accurate estimation of mutual information in high dimensional data
     year: '2025'
   8vetn38AAAAJ:ufrVoPGSRksC:
-    citations: 2
-    title: How Host Mobility Patterns Shape Antigenic Escape During Viral-Immune Coevolution
+    citations: 3
+    title: How host mobility patterns shape antigenic escape during viral-immune coevolution
     year: '2025'
