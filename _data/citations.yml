@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-15'
 papers:
   8vetn38AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Mutual information and task-relevant latent dimensionality
     year: '2026'
   8vetn38AAAAJ:8k81kl-MbHgC:
-    citations: 0
+    citations: 1
     title: Measurement effects on critical scaling in neural systems
     year: '2026'
   8vetn38AAAAJ:LkGwnXOMwfcC:
@@ -22,7 +22,7 @@ papers:
     title: Using Eye Movement to Assess Auditory Attention
     year: '2019'
   8vetn38AAAAJ:Se3iqnhoufwC:
-    citations: 9
+    citations: 11
     title: Physics-tailored machine learning reveals unexpected physics in dusty plasmas
     year: '2025'
   8vetn38AAAAJ:Tyk-4Ss8FVUC:
@@ -37,6 +37,10 @@ papers:
     citations: 0
     title: Statistical properties of empirical cross-covariance matrices of correlated large-dimensional datasets
     year: '2023'
+  8vetn38AAAAJ:kNdYIx-mwKoC:
+    citations: 0
+    title: Power Laws in Empirical Eigenvalue Spectra
+    year: '2026'
   8vetn38AAAAJ:roLk4NBRz8UC:
     citations: 6
     title: Accurate estimation of mutual information in high dimensional data
