@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "",
+          description: "Download CV (PDF)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -32,17 +32,10 @@ ninja.data = [{
           },
         },{id: "nav-tutorials",
           title: "Tutorials",
-          description: "",
+          description: "Educational materials I have developed for courses and workshops.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/tutorials/";
-          },
-        },{id: "nav-gallery",
-          title: "Gallery",
-          description: "Capturing moments.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/gallery/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
@@ -51,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-talks-amp-posters",
+          title: "Talks &amp; Posters",
+          description: "Conference presentations, invited talks, and seminars.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
+          },
         },{id: "nav-repositories",
           title: "Repositories",
           description: "Selected open-source tools and codebases.",
@@ -58,12 +58,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-miscellaneous",
-          title: "Miscellaneous",
-          description: "",
+        },{id: "nav-photography",
+          title: "Photography",
+          description: "Capturing moments.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/misc/";
+            window.location.href = "/gallery/";
           },
         },{id: "news-ai-reveals-unexpected-new-physics-in-dusty-plasma-emory-university-news-july-2025-feature-on-pnas-2025-paper-covered-by-21-news-outlets-podcasts-and-blogs",
           title: '“AI Reveals Unexpected New Physics in Dusty Plasma.” Emory University News, July 2025....',
@@ -71,12 +71,35 @@ ninja.data = [{
           section: "News",},{id: "news-periodic-table-for-ai-methods-aims-to-drive-innovation-emory-university-news-december-2025-feature-on-jmlr-2025-paper-deep-variational-multivariate-information-bottleneck",
           title: '”‘Periodic Table’ for AI Methods Aims to Drive Innovation.“ Emory University News, December...',
           description: "",
-          section: "News",},{id: "projects-coco-pilot-grant",
-          title: 'CoCo Pilot Grant',
-          description: "Tracking the Trajectory of Adaptation",
+          section: "News",},{id: "news-our-paper-physics-tailored-machine-learning-reveals-unexpected-physics-in-dusty-plasmas-received-the-2025-cozzarelli-prize-from-pnas-class-i-physical-and-mathematical-sciences-awarded-to-papers-that-reflect-scientific-excellence-and-originality-selected-from-more-than-3200-papers-accepted-at-pnas-in-2025",
+          title: 'Our paper “Physics-tailored machine learning reveals unexpected physics in dusty plasmas” received the...',
+          description: "",
+          section: "News",},{id: "news-new-paper-published-in-iclr-2026-workshop-on-geometry-grounded-representation-learning-and-generative-modeling-mutual-information-and-task-relevant-latent-dimensionality",
+          title: 'New paper published in ICLR 2026 Workshop on Geometry-grounded Representation Learning and Generative...',
+          description: "",
+          section: "News",},{id: "projects-information-bottleneck-amp-representation-learning",
+          title: 'Information Bottleneck &amp;amp; Representation Learning',
+          description: "Developing principled, information-theoretic frameworks for extracting meaningful representations from complex multimodal data.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/cocopilot.html";
+              window.location.href = "/projects/information_bottleneck.html";
+            },},{id: "projects-neural-circuits-amp-dynamics",
+          title: 'Neural Circuits &amp;amp; Dynamics',
+          description: "Applying information theory and statistical physics to understand how the brain encodes, compresses, and communicates information.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/neural_circuits.html";
+            },},{id: "projects-physics-tailored-machine-learning",
+          title: 'Physics-Tailored Machine Learning',
+          description: "Building machine learning models that respect physical symmetries and constraints to discover new physics from experimental data.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/physics_ml.html";
             },},{
+        id: 'social-arxiv',
+        title: 'arXiv',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://arxiv.org/a/eslam.abdelaleem.html", "_blank");
+        },
+      },{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
@@ -98,6 +121,20 @@ ninja.data = [{
           window.open("https://github.com/eslam-abdelaleem", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/eslamabdelaleem", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0006-9429-3589", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
@@ -110,6 +147,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=8vetn38AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-rate_my_professor',
+        title: 'Rate_my_professor',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.ratemyprofessors.com/professor/3151176", "_blank");
         },
       },{
       id: 'light-theme',
