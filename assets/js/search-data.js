@@ -44,9 +44,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-talks-amp-posters",
-          title: "Talks &amp; Posters",
-          description: "Conference presentations, invited talks, and seminars.",
+        },{id: "nav-talks-posters-amp-attendances",
+          title: "Talks, Posters &amp; Attendances",
+          description: "Conference presentations, invited talks, seminars, etc.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/talks/";
