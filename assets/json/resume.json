@@ -1,0 +1,160 @@
+{
+  "basics": {
+    "name": "Eslam Abdelaleem",
+    "label": "Postdoctoral Fellow",
+    "image": "",
+    "email": "eslam.abdelaleem@gatech.edu",
+    "phone": "",
+    "url": "https://eslam-abdelaleem.github.io",
+    "summary": "Physicist exploring the intersection of neuroscience, statistical physics, and machine learning. Developing principled, information-theoretic tools to extract meaning from high-dimensional neural data.",
+    "location": {
+      "address": "Schools of Physics and Psychology",
+      "postalCode": "GA 30332",
+      "city": "Atlanta",
+      "countryCode": "US",
+      "region": "Georgia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "eslam-abdelaleem",
+        "url": "https://github.com/eslam-abdelaleem"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Eslam Abdelaleem",
+        "url": "https://scholar.google.com/citations?user=8vetn38AAAAJ&hl=en&oi=ao"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Georgia Institute of Technology",
+      "position": "Postdoctoral Fellow",
+      "url": "https://gatech.edu",
+      "startDate": "2024-09",
+      "endDate": "",
+      "summary": "Schools of Physics and Psychology. Advisor: Dr. Audrey Sederberg.",
+      "highlights": [
+        "Developing deep learning tools for quantifying neural dynamics."
+      ]
+    },
+    {
+      "name": "Georgia Institute of Technology",
+      "position": "Lecturer",
+      "url": "https://gatech.edu",
+      "startDate": "2025-08",
+      "endDate": "2026-05",
+      "summary": "Co-instructing 'Physics of Cognition' (Fall 2025, Spring 2026).",
+      "highlights": []
+    },
+    {
+      "name": "Emory University",
+      "position": "Teaching Assistant",
+      "url": "https://emory.edu",
+      "startDate": "2019-08",
+      "endDate": "2024-05",
+      "summary": "Instructed labs for Introductory Physics (Mechanics, E&M, Optics) and Statistical Inference.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Emory University",
+      "url": "https://physics.emory.edu",
+      "area": "Physics",
+      "studyType": "Ph.D.",
+      "startDate": "2019-08",
+      "endDate": "2024-05",
+      "score": "",
+      "courses": [
+        "Advisor: Dr. Ilya Nemenman",
+        "Dissertation: Simultaneous Dimensionality Reduction for Extracting Useful Representations of Large Empirical Multimodal Datasets"
+      ]
+    },
+    {
+      "institution": "University of Science and Technology at Zewail City",
+      "url": "https://www.zewailcity.edu.eg",
+      "area": "Physics of Earth and Universe",
+      "studyType": "B.Sc.",
+      "startDate": "2015-09",
+      "endDate": "2019-08",
+      "score": "",
+      "courses": [
+        "Thesis: Monte Carlo simulations in statistical physics: Wang-Landau sampling"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "CoCo Pilot Grant ($2,000)",
+      "date": "2025-01",
+      "awarder": "Center of Excellence in Computational Cognition",
+      "summary": "Project: Tracking the Trajectory of Adaptation."
+    },
+    {
+      "title": "Best Undergraduate Presentation Award",
+      "date": "2019-01",
+      "awarder": "4th Int'l Conf. on Advanced Machine Learning",
+      "summary": ""
+    },
+    {
+      "title": "Certificate for Scientific Achievements",
+      "date": "2019-08",
+      "awarder": "Zewail City",
+      "summary": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Georgia Tech",
+      "position": "Reviewer",
+      "url": "",
+      "startDate": "2026-01",
+      "endDate": "",
+      "summary": "President's Undergraduate Research Award (Spring 2026)",
+      "highlights": []
+    },
+    {
+      "organization": "Georgia Tech",
+      "position": "Judge",
+      "url": "",
+      "startDate": "2025-05",
+      "endDate": "",
+      "summary": "Undergraduate Research Spring Symposium (Neuroscience Session)",
+      "highlights": []
+    },
+    {
+      "organization": "Zewail City Alumni Association",
+      "position": "Board of Trustees Member",
+      "url": "",
+      "startDate": "2020-08",
+      "endDate": "",
+      "summary": "Serving on the board of the alumni association.",
+      "highlights": []
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Focus",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "Computational Neuroscience",
+        "Statistical Physics",
+        "Machine Learning",
+        "Dimensionality Reduction",
+        "Information Theory"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Dr. Audrey Sederberg",
+      "reference": "Postdoctoral Advisor, Georgia Institute of Technology"
+    },
+    {
+      "name": "Dr. Ilya Nemenman",
+      "reference": "PhD Advisor, Emory University"
+    }
+  ]
+}

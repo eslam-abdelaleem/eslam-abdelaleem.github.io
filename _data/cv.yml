@@ -1,0 +1,52 @@
+# _data/cv.yml
+
+- title: General Information
+  type: map
+  contents:
+    - name: Role
+      value: Postdoctoral Fellow
+    - name: Institution
+      value: Georgia Institute of Technology
+    - name: Focus
+      value: Computational Neuroscience, Statistical Physics, Machine Learning
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Physics
+      institution: Emory University, Atlanta, GA
+      year: 2019 -- 2024
+      description:
+        - "Advisor: Dr. Ilya Nemenman"
+        - "Dissertation: Simultaneous Dimensionality Reduction for Extracting Useful Representations of Large Empirical Multimodal Datasets"
+    - title: B.Sc. in Physics of Earth and Universe
+      institution: University of Science and Technology at Zewail City, Egypt
+      year: 2015 -- 2019
+      description:
+        - "Thesis: Monte Carlo simulations in statistical physics"
+
+- title: Appointments
+  type: time_table
+  contents:
+    - title: Postdoctoral Fellow
+      institution: Georgia Institute of Technology
+      year: 2024 -- Present
+      description:
+        - "Schools of Physics and Psychology"
+        - "Advisor: Dr. Audrey Sederberg"
+    - title: Lecturer
+      institution: Georgia Institute of Technology
+      year: 2025 -- 2026
+      description:
+        - "Co-instructing Physics of Cognition."
+
+- title: Awards
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - Cozzarelli Prize, Proceedings of the National Academy of Sciences (PNAS) — for "Physics-tailored machine learning reveals unexpected physics in dusty plasmas"
+    - year: 2019
+      items:
+        - Best Undergraduate Presentation Award, 4th Int'l Conf. on Advanced Machine Learning
+        - Zewail City Certificate for Scientific Achievements

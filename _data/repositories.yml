@@ -1,0 +1,9 @@
+github_users:
+  - eslam-abdelaleem
+
+repo_description_lines_max: 2
+
+github_repos:
+  - eslam-abdelaleem/NeuralMI
+  - paarthgulati/dim_est
+  - paarthgulati/DYSIB_Pendulum
