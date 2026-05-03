@@ -58,13 +58,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-photography",
-          title: "Photography",
-          description: "Capturing moments.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/gallery/";
-          },
         },{id: "news-ai-reveals-unexpected-new-physics-in-dusty-plasma-emory-university-news-july-2025-feature-on-pnas-2025-paper-covered-by-21-news-outlets-podcasts-and-blogs",
           title: '“AI Reveals Unexpected New Physics in Dusty Plasma.” Emory University News, July 2025....',
           description: "",
