@@ -1,36 +1,36 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-06'
 papers:
-  8vetn38AAAAJ:0EnyYjriUFMC:
-    citations: 0
-    title: 'Learning Physics from Movies: Discovering Dynamical State Variables'
-    year: '2025'
   8vetn38AAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: 'Dissertation: Simultaneous Dimensionality Reduction for Extracting Useful Representations of Large Empirical Multimodal Datasets'
     year: '2024'
   8vetn38AAAAJ:3fE2CSJIrl8C:
-    citations: 0
+    citations: 1
     title: Mutual information and task-relevant latent dimensionality
     year: '2026'
   8vetn38AAAAJ:8k81kl-MbHgC:
     citations: 1
     title: Measurement effects on critical scaling in neural systems
     year: '2026'
+  8vetn38AAAAJ:KlAtU1dfN6UC:
+    citations: 0
+    title: Information bottleneck for learning the phase space of dynamics from high-dimensional experimental data
+    year: '2026'
   8vetn38AAAAJ:LkGwnXOMwfcC:
     citations: 2
     title: Using Eye Movement to Assess Auditory Attention
     year: '2019'
   8vetn38AAAAJ:Se3iqnhoufwC:
-    citations: 10
+    citations: 11
     title: Physics-tailored machine learning reveals unexpected physics in dusty plasmas
     year: '2025'
   8vetn38AAAAJ:Tyk-4Ss8FVUC:
-    citations: 13
+    citations: 14
     title: 'Simultaneous dimensionality reduction: A data efficient approach for multimodal representations learning'
     year: '2024'
   8vetn38AAAAJ:UeHWp8X0CEIC:
-    citations: 15
+    citations: 16
     title: Deep Variational Multivariate Information Bottleneck--A Framework for Variational Losses
     year: '2025'
   8vetn38AAAAJ:d1gkVwhDpl0C:
@@ -42,7 +42,7 @@ papers:
     title: Power Laws in Empirical Eigenvalue Spectra
     year: '2026'
   8vetn38AAAAJ:roLk4NBRz8UC:
-    citations: 6
+    citations: 7
     title: Accurate estimation of mutual information in high dimensional data
     year: '2025'
   8vetn38AAAAJ:ufrVoPGSRksC:
