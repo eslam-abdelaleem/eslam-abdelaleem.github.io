@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-15'
 papers:
   8vetn38AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: Using Eye Movement to Assess Auditory Attention
     year: '2019'
   8vetn38AAAAJ:Se3iqnhoufwC:
-    citations: 11
+    citations: 12
     title: Physics-tailored machine learning reveals unexpected physics in dusty plasmas
     year: '2025'
   8vetn38AAAAJ:Tyk-4Ss8FVUC:
@@ -34,7 +34,7 @@ papers:
     title: A Nonlinear Information-Theoretic Approach Reveals the Low Dimensionality of Visual Neural Codes
     year: '2026'
   8vetn38AAAAJ:UeHWp8X0CEIC:
-    citations: 18
+    citations: 19
     title: Deep Variational Multivariate Information Bottleneck--A Framework for Variational Losses
     year: '2025'
   8vetn38AAAAJ:Zph67rFs4hoC:
