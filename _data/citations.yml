@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-19'
 papers:
   8vetn38AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -34,7 +34,7 @@ papers:
     title: A Nonlinear Information-Theoretic Approach Reveals the Low Dimensionality of Visual Neural Codes
     year: '2026'
   8vetn38AAAAJ:UeHWp8X0CEIC:
-    citations: 21
+    citations: 22
     title: Deep Variational Multivariate Information Bottleneck--A Framework for Variational Losses
     year: '2025'
   8vetn38AAAAJ:Zph67rFs4hoC:
